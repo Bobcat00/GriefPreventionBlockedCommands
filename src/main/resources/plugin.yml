@@ -1,4 +1,6 @@
 name: GriefPreventionBlockedCommands
 main: com.bobcat00.griefpreventionblockedcommands.GriefPreventionBlockedCommands
-version: 0.03
+version: ${project.version}
 author: Bobcat00
+depend: [GriefPrevention]
+api-version: 1.15
