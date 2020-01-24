@@ -30,7 +30,7 @@ public final class GriefPreventionBlockedCommands extends JavaPlugin implements 
     // Commands to process - Must have a trailing space to help avoid conflicts
     private String[] commands = { "trust ",                           "tr ",
                                   "accesstrust ",                     "at ",
-                                  "containertrust ",               // "ct ", conflict with combattag
+                                  "containertrust ",                  "ct ",
                                   "permissiontrust ",                 "pt ",
                                   "griefprevention:trust ",           "griefprevention:tr ",
                                   "griefprevention:accesstrust ",     "griefprevention:at ",
